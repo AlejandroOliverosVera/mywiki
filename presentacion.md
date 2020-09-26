@@ -1,26 +1,15 @@
-# Presentación Alumna Ana Muñoz
+# Presentación Alejandro Oliveros Vera
 
-Mi nombre es Ana Muñoz, tengo 2 hermanos menores (un niño y una niña), 4 gatos y 2 perros. Básicamente soy una abuela: me gusta tejer, ver novelas y hacer cosas dulces. Y tengo una adicción por el Sims 4.
+Mi nombre es Alejandro, soy estudiante de Ingeniería Civil Informática desde el 2016 en la Universidad de Valparaiso.
 
-Estoy haciendo cambios en esto.
-testing
-testing
+He vivido toda mi vida en Valparaíso y no me gusta comer casi nada que venga del mar a menos que sea atún, aguante el atún.
 
-hice un pull, veamos si este push va con todo y ya lo hago oficial.
-Sort of.
+Me gustan muchos los videojuegos desde que tengo memoria y desde hace un tiempo estoy viendo mucho anime, tengo más de 3000 horas de Counter Strike: Global Offensive y mi anime favorito es Monogatari.
 
-Ya, un pull más y estamos, ahora sí que sí.
+Recientemente desarrolle una adicción a juegos móviles japoneses ya que básicamente es el punto medio entre ser fan de los videojuegos y ver anime.
 
-jjjj
+Todos mis amigos que conozco por internet (y mi primo) me dicen "Nokker" que es mi nickname desde 2013.
 
-Funcionó :D Veamos que pasa si agrego una imagen, quiero ver cómo lo lee la consola.
+En cuanto a musica soy super diverso pero no suelo disfrutar la musica latina nueva.
 
-Bow down to the queen.
-![queenbey.jpg](/.attachments/queenbey-c1878565-a5d4-4658-bcef-2438807cb539.jpg)
-
-Ah mish, que entrete.
-
-Ya, suficiente.
-
-
-Hola soy Alejandro Oliveros y también me gustan los sims, wow, epic momento gamer.
+Este soy yo, no hago deporte, no dibujo, no toco ningun instrumento ni tampoco soy bueno para bailar, solo un sujeto promedio un poco asocial que disfruta del internet.
